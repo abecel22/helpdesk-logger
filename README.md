@@ -3,6 +3,8 @@ Picture Demo
 ![](https://user-images.githubusercontent.com/25330153/59734192-0a39b280-9216-11e9-96ae-9b2eb08ae388.png)
 
 
+![](https://user-images.githubusercontent.com/25330153/59734196-0d34a300-9216-11e9-8c9f-85f6c83056cd.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
