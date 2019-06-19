@@ -1,0 +1,30 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed network card on server 007 and added a new monitor",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2019-06-15T03:28:41.635Z"
+    },
+    {
+      "id": 2,
+      "message": "Hard drive fixed on workstation 003",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2019-06-15T03:28:16.569Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    }
+  ]
+}
